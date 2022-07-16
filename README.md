@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @The-Visitor
+- 👋 Hi, I’m Pallav
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning graphql.
 
